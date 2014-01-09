@@ -7,7 +7,7 @@ namespace GetWeather
 {
     class Weather
     {
-        private XmlNodeList WeatherNodeList;
+        private XmlNodeList WeatherNodeList; 
         private XmlDocument weatherfile;
         public double temp_c;
         public double temp_f;
